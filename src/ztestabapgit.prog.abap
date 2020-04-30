@@ -10,3 +10,6 @@ REPORT ZTESTABAPGIT.
 
 
 WRITE:/ 'hello'.
+* new data added here
+
+WRITE:/ 'bug1'.
