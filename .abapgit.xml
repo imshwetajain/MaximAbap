@@ -14,6 +14,8 @@
     <item>/.gitlab-ci.yml</item>
     <item>/abaplint.json</item>
     <item>/azure-pipelines.yml</item>
+    <item>/src/zcl_zbsr_form_dpc_ext_1.clas.abap</item>
+    <item>/src/zcl_zbsr_form_dpc_ext_1.clas.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
